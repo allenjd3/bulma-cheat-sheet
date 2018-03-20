@@ -44,7 +44,11 @@ is-desktop
 Column Gap-
 is-0 to is-9
 
+Multiline-
+is-multiline
 
+Centered- 
+is-centered
 ## Column Sizes
 
 is-three-quarters
