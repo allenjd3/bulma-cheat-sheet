@@ -98,23 +98,35 @@ subtitle
 
 ## Card
 
-card: the main container
-card-header: a horizontal bar with a shadow
-card-header-title: a left-aligned bold text
-card-header-icon: a placeholder for an icon
-card-image: a fullwidth container for a responsive image
-card-content: a multi-purpose container for any other element
-card-footer: a horizontal list of controls
-card-footer-item: a repeatable list item
+**card**: the main container
+
+**card-header**: a horizontal bar with a shadow
+
+**card-header-title**: a left-aligned bold text
+
+**card-header-icon**: a placeholder for an icon
+
+**card-image**: a fullwidth container for a responsive image
+
+**card-content**: a multi-purpose container for any other element
+
+**card-footer**: a horizontal list of controls
+
+**card-footer-item**: a repeatable list item
 
 ## Dropdown
 
-dropdown the main container
-dropdown-trigger the container for a button
-dropdown-menu the toggable menu, hidden by default
-dropdown-content the dropdown box, with a white background and a shadow
-dropdown-item each single item of the dropdown, which can either be a a or a div
-dropdown-divider a horizontal line to separate dropdown items
+**dropdown** the main container
+
+**dropdown-trigger** the container for a button
+
+**dropdown-menu** the toggable menu, hidden by default
+
+**dropdown-content** the dropdown box, with a white background and a shadow
+
+**dropdown-item** each single item of the dropdown, which can either be a a or a div
+
+**dropdown-divider** a horizontal line to separate dropdown items
 
 ## modal
 
