@@ -159,3 +159,21 @@ subtitle
 **navbar-dropdown** the dropdown menu, which can include navbar items and dividers
 
 **navbar-divider** a horizontal line to separate navbar items
+
+## form controls
+
+.label
+
+.input
+
+.textarea
+
+.select
+
+.checkbox
+
+.radio
+
+.button
+
+.help
